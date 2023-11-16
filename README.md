@@ -16,3 +16,5 @@ Nice to have features:
 - updating display at intervals
 - minimap of location display and link to reddit post
 - queue of next displays to create seamless transitions
+
+Working on learning react as of now
